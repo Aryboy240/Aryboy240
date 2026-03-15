@@ -60,7 +60,7 @@ I'm a full-stack developer who genuinely enjoys the craft — from pixel-perfect
 ### 🛒 E-Commerce Platform · `2025`
 > Led an 8-person agile team to ship a production-ready e-commerce platform — **86.28% evaluation score**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="16"/> Laravel &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="16"/> PHP &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="16"/> MySQL &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="16"/> Docker &nbsp;·&nbsp; <img src="https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white&style=flat" height="16"/> &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="16"/> Apache
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="16"/> Laravel &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="16"/> PHP &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="16"/> MySQL &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="16"/> Docker &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="16"/> Cloudflare &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="16"/> Apache
 
 [→ View on GitHub](https://github.com/Aryboy240/ecommerce-Project)
 
@@ -78,7 +78,7 @@ I'm a full-stack developer who genuinely enjoys the craft — from pixel-perfect
 ### 🤖 Kora Labs — AI Automation Suite · `2026–present`
 > Multi-agent AI assistant on Telegram. Manages email, calendar & contacts. LLM inbox categorisation, job scraping with AI CV scoring, voice input via Whisper. Local inference on an RTX 5090 with Ollama.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16"/> n8n &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16"/> Groq API &nbsp;·&nbsp; <img src="https://img.shields.io/badge/-Whisper-412991?logo=openai&logoColor=white&style=flat" height="16"/> &nbsp;·&nbsp; <img src="https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=flat" height="16"/> &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="16"/> Google APIs &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="16"/> Docker
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16"/> n8n &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16"/> Groq API &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/openai/000000" width="16"/> Whisper &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="16"/> Telegram API &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="16"/> Google APIs &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="16"/> Docker
 
 [→ View on GitHub](https://github.com/Aryboy240/koralabs-n8n-workflows)
 
@@ -87,7 +87,7 @@ I'm a full-stack developer who genuinely enjoys the craft — from pixel-perfect
 ### 🏠 Kora Labs Homelab · `2026–present`
 > Fully containerised self-hosted server: Plex, Nextcloud, Immich, Pi-hole, Nginx reverse proxy with SSL, Cloudflare DNS, and a public Minecraft server at `mc.koralabs.uk`.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="16"/> Docker &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="16"/> Linux &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="16"/> Nginx &nbsp;·&nbsp; <img src="https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white&style=flat" height="16"/> &nbsp;·&nbsp; 🔒 SSL
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="16"/> Docker &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="16"/> Linux &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="16"/> Nginx &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="16"/> Cloudflare &nbsp;·&nbsp; 🔒 SSL
 
 [→ View on GitHub](https://github.com/Aryboy240/koralabs-homelab)
 
@@ -96,7 +96,7 @@ I'm a full-stack developer who genuinely enjoys the craft — from pixel-perfect
 ### 🍰 Little Dessert Shop · `2022`
 > Fully responsive business website with mobile-first layouts, dynamic DOM interactions, deployed on Netlify with automated CDN delivery.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="16"/> HTML &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="16"/> CSS &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16"/> JavaScript &nbsp;·&nbsp; <img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat" height="16"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="16"/> HTML &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="16"/> CSS &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16"/> JavaScript &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="16"/> Netlify
 
 [→ View on GitHub](https://github.com/Aryboy240/little-dessert-shop-website)
 
