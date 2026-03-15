@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
-
 # Hey, I'm Aryan Kora 👋
 
 **Full-stack developer & hobbyist builder** — I like making things that actually work.
@@ -13,6 +11,12 @@ Currently a final year CS student, but I've been writing real code for real proj
 ![AI automation](https://img.shields.io/badge/🤖_AI_Automation-633806?style=for-the-badge&labelColor=FAEEDA&color=FAEEDA)
 ![Self-hosted](https://img.shields.io/badge/🐳_Self--Hosted_Infra-0C447C?style=for-the-badge&labelColor=E6F1FB&color=E6F1FB)
 ![Open to work](https://img.shields.io/badge/🌍_Open_To_Work-712B13?style=for-the-badge&labelColor=FAECE7&color=FAECE7)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:YOUR_OUTLOOK_EMAIL)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_GMAIL)
+[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=black)](https://linktr.ee/AryanKora)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aryboy240)
 
 </div>
 
@@ -26,12 +30,34 @@ I'm a full-stack developer who genuinely enjoys the craft — from pixel-perfect
 
 ## 🛠️ Tech stack
 
-| Area | Technologies |
-|---|---|
-| **Frontend** | React · TypeScript · JavaScript (ES6+) · TailwindCSS · HTML5 · CSS3 · Responsive Design |
-| **Backend** | Node.js · Express · Laravel · PHP · Python · Java · REST APIs |
-| **Data & Cloud** | Firestore · MySQL · Google Cloud Run · Pub/Sub · NoSQL |
-| **Infra & Tools** | Docker · Linux · Nginx · Cloudflare · SSL · Git · GitHub · n8n · Ollama |
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 🗄️ Data & Cloud
+![Firebase](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🔧 Infra & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
 
@@ -79,17 +105,9 @@ I'm a full-stack developer who genuinely enjoys the craft — from pixel-perfect
 
 ## ⚡ Fun facts
 
-<div align="center">
-
-| 👥 Devs led | 🏆 Eval score | 🖥️ Local AI GPU | 🟢 MC Server | 🐳 Self-hosted apps |
+| 🖥️ | 🤖 | 🌐 | 🐳 | 🔧 |
 |:---:|:---:|:---:|:---:|:---:|
-| **8** | **86.28%** | **RTX 5090** | **play.koralabs.uk** | **5+** |
-
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" />
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" />
-
-</div>
+| Self-hosting since 2026 | AI runs locally on RTX 5090 | mc.koralabs.uk is live | 5+ apps self-hosted | Full-stack since 2022 |
 
 ---
 
