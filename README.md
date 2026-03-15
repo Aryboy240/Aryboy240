@@ -78,7 +78,7 @@ I'm a full-stack developer who genuinely enjoys the craft — from pixel-perfect
 ### 🤖 Kora Labs — AI Automation Suite · `2026–present`
 > Multi-agent AI assistant on Telegram. Manages email, calendar & contacts. LLM inbox categorisation, job scraping with AI CV scoring, voice input via Whisper. Local inference on an RTX 5090 with Ollama.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16"/> n8n &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16"/> Groq API &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/openai/000000" width="16"/> Whisper &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="16"/> Telegram API &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="16"/> Google APIs &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="16"/> Docker
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16"/> n8n &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16"/> Groq API &nbsp;·&nbsp; 🎙️ Whisper &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="16"/> Telegram API &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="16"/> Google APIs &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="16"/> Docker
 
 [→ View on GitHub](https://github.com/Aryboy240/koralabs-n8n-workflows)
 
