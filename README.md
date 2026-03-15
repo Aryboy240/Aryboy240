@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
 
 # Hey, I'm Aryan Kora 👋
 
@@ -77,9 +77,23 @@ I'm a full-stack developer who genuinely enjoys the craft — from pixel-perfect
 
 ---
 
+## ⚡ Fun facts
+
 <div align="center">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="120" />
+| 👥 Devs led | 🏆 Eval score | 🖥️ Local AI GPU | 🟢 MC Server | 🐳 Self-hosted apps |
+|:---:|:---:|:---:|:---:|:---:|
+| **8** | **86.28%** | **RTX 5090** | **play.koralabs.uk** | **5+** |
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" />
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" />
+
+</div>
+
+---
+
+<div align="center">
 
 **Always building. Always learning. Open to opportunities.**
 
