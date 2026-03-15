@@ -18,23 +18,20 @@ Currently a final year CS student, but I've been writing real code for real proj
 
 ## 🙋 About me
 
-I'm a full-stack developer who genuinely enjoys the craft, from pixel-perfect UIs to container orchestration and everything in between. I led an **8-person agile team** to deliver a production e-commerce platform. When I'm not doing coursework, I'm building AI workflows, self-hosting my own cloud, and automating things that shouldn't need to be done manually. I run everything from my own server — Plex, Nextcloud, n8n, a Minecraft server, because why not?
+I'm a full-stack developer who genuinely enjoys the craft, from pixel-perfect UIs to container orchestration and everything in between. I led an **8-person agile team** to deliver a production e-commerce platform. When I'm not doing coursework, I'm building AI workflows, self-hosting my own cloud, and automating things that shouldn't need to be done manually. I run everything from my own server - Plex, Nextcloud, n8n, a Minecraft server, because why not?
 
 ---
 
 ## 🛠️ Tech stack
 
-### 🎨 Frontend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> React &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20"/> TypeScript &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> JavaScript &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> HTML5 &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> CSS3 &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="20"/> TailwindCSS
-
-### ⚙️ Backend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20"/> Node.js &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="20"/> Express &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="20"/> Laravel &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20"/> PHP &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> Java
-
-### 🗄️ Data & Cloud
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="20"/> Firestore &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"/> MySQL &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="20"/> Google Cloud &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20"/> Docker
-
-### 🔧 Infra & Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20"/> Linux &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="20"/> Nginx &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/> Git &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/> GitHub &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20"/> C++
+| 🎨 Frontend | ⚙️ Backend | 🗄️ Data & Cloud | 🔧 Infra & Tools |
+|---|---|---|---|
+| React | Node.js | Firestore | Linux |
+| TypeScript | Express | MySQL | Nginx |
+| JavaScript | Laravel | Google Cloud | Git & GitHub |
+| HTML5 & CSS3 | PHP | Docker | C++ |
+| TailwindCSS | Python | | n8n · Ollama |
+| | Java | | |
 
 ---
 
@@ -68,7 +65,7 @@ I'm a full-stack developer who genuinely enjoys the craft, from pixel-perfect UI
 ---
 
 ### 🏠 Kora Labs Homelab · `2026–present`
-> Fully containerised self-hosted server: Plex, Nextcloud, Immich, Pi-hole, Nginx reverse proxy with SSL, Cloudflare DNS, and a public Minecraft server at `mc.koralabs.uk`.
+> Fully containerised self-hosted server: Plex, Nextcloud, Immich, Pi-hole, Nginx reverse proxy with SSL, Cloudflare DNS, and a public Minecraft server at `play.koralabs.uk`.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="16"/> Docker &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="16"/> Linux &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="16"/> Nginx &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="16"/> Cloudflare &nbsp;·&nbsp; 🔒 SSL
 
