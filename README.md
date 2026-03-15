@@ -6,17 +6,11 @@
 From e-commerce platforms to AI assistants running on my own server, I build across the whole stack and ship to production.
 Currently a final year CS student, but I've been writing real code for real projects for a while now.
 
-![CS student](https://img.shields.io/badge/🎓_Final_Year_CS-0F6E56?style=for-the-badge&labelColor=E1F5EE&color=E1F5EE)
-![Full-stack](https://img.shields.io/badge/⚡_Full--Stack-3C3489?style=for-the-badge&labelColor=EEEDFE&color=EEEDFE)
-![AI automation](https://img.shields.io/badge/🤖_AI_Automation-633806?style=for-the-badge&labelColor=FAEEDA&color=FAEEDA)
-![Self-hosted](https://img.shields.io/badge/🐳_Self--Hosted_Infra-0C447C?style=for-the-badge&labelColor=E6F1FB&color=E6F1FB)
-![Open to work](https://img.shields.io/badge/🌍_Open_To_Work-712B13?style=for-the-badge&labelColor=FAECE7&color=FAECE7)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:YOUR_OUTLOOK_EMAIL)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_GMAIL)
-[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=black)](https://linktr.ee/AryanKora)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aryboy240)
+![CS student](https://img.shields.io/badge/🎓_Final_Year_CS-0F6E56?style=for-the-badge&logoColor=white)
+![Full-stack](https://img.shields.io/badge/⚡_Full--Stack-3C3489?style=for-the-badge&logoColor=white)
+![AI automation](https://img.shields.io/badge/🤖_AI_Automation-BA7517?style=for-the-badge&logoColor=white)
+![Self-hosted](https://img.shields.io/badge/🐳_Self--Hosted_Infra-185FA5?style=for-the-badge&logoColor=white)
+![Open to work](https://img.shields.io/badge/🌍_Open_To_Work-993C1D?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -111,10 +105,14 @@ I'm a full-stack developer who genuinely enjoys the craft — from pixel-perfect
 
 ---
 
-<div align="center">
+## 📬 Get in touch
 
-**Always building. Always learning. Open to opportunities.**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:YOUR_OUTLOOK_EMAIL)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_GMAIL)
+[![Linktree](https://img.shields.io/badge/Linktree-1DB954?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/AryanKora)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aryboy240)
 
-🌿 [linktr.ee/AryanKora](https://linktr.ee/AryanKora)
+---
 
-</div>
+<div align="center"><i>always building · always learning · open to opportunities</i></div>
