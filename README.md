@@ -24,14 +24,11 @@ I'm a full-stack developer who genuinely enjoys the craft, from pixel-perfect UI
 
 ## 🛠️ Tech stack
 
-| 🎨 Frontend | ⚙️ Backend | 🗄️ Data & Cloud | 🔧 Infra & Tools |
-|---|---|---|---|
-| React | Node.js | Firestore | Linux |
-| TypeScript | Express | MySQL | Nginx |
-| JavaScript | Laravel | Google Cloud | Git & GitHub |
-| HTML5 & CSS3 | PHP | Docker | C++ |
-| TailwindCSS | Python | | n8n · Ollama |
-| | Java | | |
+| 🎨 Frontend | React · TypeScript · JavaScript · HTML5 · CSS3 · TailwindCSS |
+|---|---|
+| ⚙️ Backend | Node.js · Express · Laravel · PHP · Python · Java |
+| 🗄️ Data & Cloud | Firestore · MySQL · Google Cloud · Docker |
+| 🔧 Infra & Tools | Linux · Nginx · Git · GitHub · C++ · n8n · Ollama |
 
 ---
 
