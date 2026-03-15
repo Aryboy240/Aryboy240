@@ -2,7 +2,7 @@
 
 # Hey, I'm Aryan Kora 👋
 
-**Full-stack developer & hobbyist builder** — I like making things that actually work.
+**Full-stack developer & hobbyist builder** - I like making things that actually work.
 From e-commerce platforms to AI assistants running on my own server, I build across the whole stack and ship to production.
 Currently a final year CS student, but I've been writing real code for real projects for a while now.
 
@@ -18,7 +18,7 @@ Currently a final year CS student, but I've been writing real code for real proj
 
 ## 🙋 About me
 
-I'm a full-stack developer who genuinely enjoys the craft — from pixel-perfect UIs to container orchestration and everything in between. I led an **8-person agile team** to deliver a production e-commerce platform while still in my studies (**86.28% evaluation score**). When I'm not doing coursework, I'm building AI workflows, self-hosting my own cloud, and automating things that shouldn't need to be done manually. I run everything from my own server — Plex, Nextcloud, n8n, a Minecraft server — because why not?
+I'm a full-stack developer who genuinely enjoys the craft, from pixel-perfect UIs to container orchestration and everything in between. I led an **8-person agile team** to deliver a production e-commerce platform. When I'm not doing coursework, I'm building AI workflows, self-hosting my own cloud, and automating things that shouldn't need to be done manually. I run everything from my own server — Plex, Nextcloud, n8n, a Minecraft server, because why not?
 
 ---
 
@@ -58,7 +58,7 @@ I'm a full-stack developer who genuinely enjoys the craft — from pixel-perfect
 ## 🚀 Projects
 
 ### 🛒 E-Commerce Platform · `2025`
-> Led an 8-person agile team to ship a production-ready e-commerce platform — **86.28% evaluation score**
+> Led an 8-person agile team to ship a production-ready e-commerce platform - **86.28% evaluation score**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="16"/> Laravel &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="16"/> PHP &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="16"/> MySQL &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="16"/> Docker &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="16"/> Cloudflare &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="16"/> Apache
 
@@ -75,7 +75,7 @@ I'm a full-stack developer who genuinely enjoys the craft — from pixel-perfect
 
 ---
 
-### 🤖 Kora Labs — AI Automation Suite · `2026–present`
+### 🤖 Kora Labs - AI Automation Suite · `2026–present`
 > Multi-agent AI assistant on Telegram. Manages email, calendar & contacts. LLM inbox categorisation, job scraping with AI CV scoring, voice input via Whisper. Local inference on an RTX 5090 with Ollama.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16"/> n8n &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16"/> Groq API &nbsp;·&nbsp; 🎙️ Whisper &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="16"/> Telegram API &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="16"/> Google APIs &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="16"/> Docker
@@ -105,15 +105,15 @@ I'm a full-stack developer who genuinely enjoys the craft — from pixel-perfect
 ## ⚡ Fun facts
 | 🌐 Hosting | 🔧 Developer | 🖥️ Local AI GPU | 🟢 MC Server | 🐳 Self-hosted apps |
 |:---:|:---:|:---:|:---:|:---:|
-| **Self-hosting since 2026** | **Full-stack since 2022** | **RTX 5090** | **play.koralabs.uk** | **5+** |
+| **Self-hosting since 2026** | **Full-stack since 2022** | **RTX 5090** | **play.koralabs.uk** | **10+** |
 
 ---
 
 ## 📬 Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:YOUR_OUTLOOK_EMAIL)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_GMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-kora/)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:aryan240@outlook.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryboy240@gmail.com)
 [![Linktree](https://img.shields.io/badge/Linktree-1DB954?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/AryanKora)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aryboy240)
 
