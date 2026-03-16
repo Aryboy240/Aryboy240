@@ -39,7 +39,7 @@ I'm a full-stack developer who genuinely enjoys the craft, from pixel-perfect UI
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="16"/> Laravel &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="16"/> PHP &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="16"/> MySQL &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="16"/> Docker &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="16"/> Cloudflare &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="16"/> Apache
 
-[→ View on GitHub](https://github.com/Aryboy240/ecommerce-Project)
+[→ View repository](https://github.com/Aryboy240/ecommerce-Project)
 
 ---
 
@@ -48,7 +48,7 @@ I'm a full-stack developer who genuinely enjoys the craft, from pixel-perfect UI
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16"/> React &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="16"/> Node.js &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16"/> TypeScript &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="16"/> Firestore &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="16"/> Docker &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="16"/> Cloud Run
 
-[→ View on GitHub](https://github.com/Aryboy240/video-share-project)
+[→ View repository](https://github.com/Aryboy240/video-share-project)
 
 ---
 
@@ -57,7 +57,7 @@ I'm a full-stack developer who genuinely enjoys the craft, from pixel-perfect UI
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16"/> n8n &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16"/> Groq API &nbsp;·&nbsp; 🎙️ Whisper &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="16"/> Telegram API &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="16"/> Google APIs &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="16"/> Docker
 
-[→ View on GitHub](https://github.com/Aryboy240/koralabs-n8n-workflows)
+[→ View repository](https://github.com/Aryboy240/koralabs-n8n-workflows)
 
 ---
 
@@ -66,7 +66,7 @@ I'm a full-stack developer who genuinely enjoys the craft, from pixel-perfect UI
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="16"/> Docker &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="16"/> Linux &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="16"/> Nginx &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="16"/> Cloudflare &nbsp;·&nbsp; 🔒 SSL
 
-[→ View on GitHub](https://github.com/Aryboy240/koralabs-homelab)
+[→ View repository](https://github.com/Aryboy240/koralabs-homelab)
 
 ---
 
@@ -75,7 +75,7 @@ I'm a full-stack developer who genuinely enjoys the craft, from pixel-perfect UI
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="16"/> HTML &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="16"/> CSS &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16"/> JavaScript &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="16"/> Netlify
 
-[→ View on GitHub](https://github.com/Aryboy240/little-dessert-shop-website)
+[→ View repository](https://github.com/Aryboy240/little-dessert-shop-website)
 
 ---
 
