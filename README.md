@@ -52,7 +52,7 @@ I'm a full-stack developer who genuinely enjoys the craft, from pixel-perfect UI
 
 ---
 
-### 🤖 Kora Labs - AI Automation Suite · `2026–present`
+### 🤖 KoraLabs/AI Automation Suite · `2026–present`
 > Multi-agent AI assistant on Telegram. Manages email, calendar & contacts. LLM inbox categorisation, job scraping with AI CV scoring, voice input via Whisper. Local inference on an RTX 5090 with Ollama.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16"/> n8n &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16"/> Groq API &nbsp;·&nbsp; 🎙️ Whisper &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="16"/> Telegram API &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="16"/> Google APIs &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="16"/> Docker
@@ -61,7 +61,7 @@ I'm a full-stack developer who genuinely enjoys the craft, from pixel-perfect UI
 
 ---
 
-### 🏠 Kora Labs Homelab · `2026–present`
+### 🏠 KoraLabs · `2026–present`
 > Fully containerised self-hosted server: Plex, Nextcloud, Immich, Pi-hole, Nginx reverse proxy with SSL, Cloudflare DNS, and a public Minecraft server at `play.koralabs.uk`.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="16"/> Docker &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="16"/> Linux &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="16"/> Nginx &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="16"/> Cloudflare &nbsp;·&nbsp; 🔒 SSL
