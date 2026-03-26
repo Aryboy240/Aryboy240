@@ -10,7 +10,8 @@ Currently a final year CS student, but I've been writing real code for real proj
 ![Full-stack](https://img.shields.io/badge/⚡_Full--Stack-3C3489?style=for-the-badge&logoColor=white)
 ![AI automation](https://img.shields.io/badge/🤖_AI_Automation-BA7517?style=for-the-badge&logoColor=white)
 ![Self-hosted](https://img.shields.io/badge/🐳_Self--Hosted_Infra-185FA5?style=for-the-badge&logoColor=white)
-![Open to work](https://img.shields.io/badge/🌍_Open_To_Work-993C1D?style=for-the-badge&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/🧠_Agentic_AI_Dev-993C1D?style=for-the-badge&logoColor=white)
+![Open to work](https://img.shields.io/badge/🌍_Open_To_Work-638822?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -18,26 +19,39 @@ Currently a final year CS student, but I've been writing real code for real proj
 
 ## 🙋 About me
 
-I'm a full-stack developer who genuinely enjoys the craft, from pixel-perfect UIs to container orchestration and everything in between. I led an **8-person agile team** to deliver a production e-commerce platform. When I'm not doing coursework, I'm building AI workflows, self-hosting my own cloud, and automating things that shouldn't need to be done manually. I run everything from my own server - Plex, Nextcloud, n8n, a Minecraft server, because why not?
+I'm a full-stack developer who genuinely enjoys the craft, from pixel-perfect UIs to container orchestration and everything in between. I led an **8-person agile team** to deliver a production e-commerce platform. When I'm not doing coursework, I'm building AI workflows, self-hosting my own cloud, and automating things that shouldn't need to be done manually. I run everything from my own server — Plex, Nextcloud, n8n, a Minecraft server, because why not?
+
+Most recently I've been exploring **agentic AI development** — using Claude Code to build a real production-grade domiciliary optician management system from scratch, directing architecture decisions and collaborating with AI rather than just prompting it.
 
 ---
 
 ## 🛠️ Tech stack
 
-| 🎨 Frontend | React · TypeScript · JavaScript · HTML5 · CSS3 · TailwindCSS |
+| 🎨 Frontend | React · TypeScript · JavaScript · HTML5 · CSS3 · TailwindCSS · Alpine.js |
 |---|---|
 | ⚙️ Backend | Node.js · Express · Laravel · PHP · Python · Java |
-| 🗄️ Data & Cloud | Firestore · MySQL · Google Cloud · Docker |
-| 🔧 Infra & Tools | Linux · Nginx · Git · GitHub · C++ · n8n · Ollama |
+| 🗄️ Data & Cloud | Firestore · MySQL · SQLite · Google Cloud · Docker |
+| 🔧 Infra & Tools | Linux · Nginx · Git · GitHub · C++ · n8n · Ollama · Claude Code |
 
 ---
 
 ## 🚀 Projects
 
-### 🛒 E-Commerce Platform · `2025`
-> Led an 8-person agile team to ship a production-ready e-commerce platform - **86.28% evaluation score**
+### 👁️ HomeOptic — Domiciliary Optician Management System · `2026`
+> Full-stack practice management system built using **agentic AI development** (Claude Code). Covers patient records, NHS GOS form generation, appointment diary, clinical examination workflows, eGOS claims management, and automated notifications — based on real-world research into commercial optician software.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="16"/> Laravel &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="16"/> PHP &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="16"/> MySQL &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="16"/> Docker &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="16"/> Cloudflare &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="16"/> Apache
+**What makes this one different:** Architecture-first development — schema and design patterns agreed in discussion before any code was written. Full Observer → Queue → Strategy pattern chain verified end-to-end with real email delivery.
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="16"/> Laravel &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="16"/> PHP &nbsp;·&nbsp; 🗄️ SQLite &nbsp;·&nbsp; 🏔️ Alpine.js &nbsp;·&nbsp; 🎨 TailwindCSS &nbsp;·&nbsp; 🤖 Claude Code
+
+[→ View repository](https://github.com/Aryboy240/homeOptic)
+
+---
+
+### 🛒 E-Commerce Platform · `2025`
+> Led an 8-person agile team to ship a production-ready e-commerce platform — **86.28% evaluation score**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="16"/> Laravel &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="16"/> PHP &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="16"/> MySQL &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="16"/> Docker &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="16"/> Cloudflare
 
 [→ View repository](https://github.com/Aryboy240/ecommerce-Project)
 
@@ -53,7 +67,7 @@ I'm a full-stack developer who genuinely enjoys the craft, from pixel-perfect UI
 ---
 
 ### 🤖 KoraLabs/AI Automation Suite · `2026–present`
-> Multi-agent AI assistant on Telegram. Manages email, calendar & contacts. LLM inbox categorisation, job scraping with AI CV scoring, voice input via Whisper. Local inference on an RTX 5090 with Ollama.
+> Multi-agent AI assistant on Telegram. Manages email, calendar & contacts. LLM inbox categorisation, job scraping with AI CV scoring, voice input via Whisper. Local inference with Ollama.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16"/> n8n &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16"/> Groq API &nbsp;·&nbsp; 🎙️ Whisper &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="16"/> Telegram API &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="16"/> Google APIs &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="16"/> Docker
 
@@ -80,9 +94,9 @@ I'm a full-stack developer who genuinely enjoys the craft, from pixel-perfect UI
 ---
 
 ## ⚡ Fun facts
-| 🌐 Hosting | 🔧 Developer | 🖥️ Local AI GPU | 🟢 MC Server | 🐳 Self-hosted apps |
+| 🌐 Hosting | 🔧 Developer | 🧠 Agentic AI | 🟢 MC Server | 🐳 Self-hosted apps |
 |:---:|:---:|:---:|:---:|:---:|
-| **Self-hosting since 2026** | **Full-stack since 2022** | **RTX 5090** | **play.koralabs.uk** | **10+** |
+| **Self-hosting since 2026** | **Full-stack since 2022** | **Claude Code** | **play.koralabs.uk** | **10+** |
 
 ---
 
