@@ -94,9 +94,9 @@ Most recently I've been exploring **agentic AI development** — using Claude Co
 ---
 
 ## ⚡ Fun facts
-| 🌐 Hosting | 🔧 Developer | 🧠 Agentic AI | 🟢 MC Server | 🐳 Self-hosted apps |
+| 🌐 Hosting | 🔧 Developer | 🧠 Agentic AI | 🐍 Strongest Language | 🐳 Self-hosted apps |
 |:---:|:---:|:---:|:---:|:---:|
-| **Self-hosting since 2026** | **Full-stack since 2022** | **Claude Code** | **play.koralabs.uk** | **10+** |
+| **Self-hosting since 2025** | **Full-stack since 2022** | **Claude Code** | **Python** | **10+** |
 
 ---
 
